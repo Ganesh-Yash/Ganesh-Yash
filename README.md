@@ -13,8 +13,8 @@
 
 <br/><br/>
 
-<a href="https://github.com/Ganesh-Yash">
-<img src="https://img.shields.io/badge/GitHub-Ganesh--Yash-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://portfoilo-theta-opal.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:ganeshvutukuri43@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
