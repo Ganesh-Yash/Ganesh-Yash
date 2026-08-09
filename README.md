@@ -6,17 +6,20 @@
 
 <br/>
 
-
+![B.Tech](https://img.shields.io/badge/B.Tech-AI%20%26%20ML-6D28D9?style=flat-square)
+![GPA](https://img.shields.io/badge/GPA-8.5%2F10-4F46E5?style=flat-square)
+![Location](https://img.shields.io/badge/Guntur-Andhra%20Pradesh-7C3AED?style=flat-square)
+![Status](https://img.shields.io/badge/Final%20Year-Student-4338CA?style=flat-square)
 
 <br/><br/>
 
-<a href="https://portfoilo-theta-opal.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/Ganesh-Yash">
+<img src="https://img.shields.io/badge/GitHub-Ganesh--Yash-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:ganeshvutukuri43@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/yaswanth-ganesh-kumar-vutukuri-99013230b">
+<a href="YOUR_LINKEDIN_URL_HERE">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -37,14 +40,11 @@
 
 </div>
 
-<div align="center">
+---
 
-About · Tech Stack · AI/ML · Projects · Achievements · Certifications · Coding Profiles · Analytics · Focus · Connect
+## About Me
 
-</div>
-
-About Me
-
+```yaml
 name: "Vutukuri Yaswanth Ganesh Kumar"
 location: "Guntur, Andhra Pradesh, India"
 
@@ -64,56 +64,30 @@ interests:
   - Generative AI
   - Backend Development
   - Intelligent Automation
+```
 
-I am a final-year B.Tech Artificial Intelligence & Machine Learning student at Vasireddy Venkatadri Institute of Technology (VVIT) with a strong interest in developing intelligent and practical software systems.
+I am a final-year **B.Tech Artificial Intelligence & Machine Learning** student at **Vasireddy Venkatadri Institute of Technology (VVIT)** with a strong interest in developing intelligent and practical software systems.
 
-My primary focus is Artificial Intelligence and Machine Learning, with hands-on experience in Python, TensorFlow, NLP, LSTM, CNN, word embeddings and model optimisation.
+My primary focus is **Artificial Intelligence and Machine Learning**, with hands-on experience in **Python, TensorFlow, NLP, LSTM, CNN, word embeddings and model optimisation**.
 
-I have developed an end-to-end NLP Text Classification Pipeline achieving more than 90% validation accuracy, incorporating text preprocessing, deep-learning architectures, hyperparameter tuning and model-performance visualisation.
+I have developed an end-to-end **NLP Text Classification Pipeline** achieving more than **90% validation accuracy**, incorporating text preprocessing, deep-learning architectures, hyperparameter tuning and model-performance visualisation.
 
-Alongside AI/ML, I am strengthening my software engineering foundation through Python backend development, REST APIs, MySQL, web technologies and workflow automation using n8n.
+Alongside AI/ML, I am strengthening my software engineering foundation through **Python backend development, REST APIs, MySQL, web technologies and workflow automation using n8n**.
 
-Open To
+### Open To
 
-AI / Machine Learning Engineer Roles
+* AI / Machine Learning Engineer Roles
+* AI & Data Internships
+* Python Developer Roles
+* Backend Development Roles
+* Software Engineering Opportunities
+* Open Source Collaboration
 
-AI & Data Internships
+---
 
-Python Developer Roles
+## Tech Stack
 
-Backend Development Roles
-
-Software Engineering Opportunities
-
-Open Source Collaboration
-
-Profile Snapshot
-
-<div align="center">
-
-🎓 Education
-
-🤖 Focus
-
-🐍 Primary Language
-
-📊 GPA
-
-B.Tech AI & ML
-
-Artificial Intelligence & Machine Learning
-
-Python
-
-8.5 / 10
-
-</div>
-
-Currently building: practical AI/ML solutions while strengthening Python backend, REST API, database and automation skills.
-
-Tech Stack
-
-Languages
+### Languages
 
 <div align="center">
 
@@ -121,11 +95,13 @@ Languages
 
 <br/><br/>
 
-
+![Python](https://img.shields.io/badge/Python-Primary-6D28D9?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Core-4F46E5?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-7C3AED?style=for-the-badge)
 
 </div>
 
-AI / ML
+### AI / ML
 
 <div align="center">
 
@@ -133,19 +109,26 @@ AI / ML
 
 <br/><br/>
 
-
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4F46E5?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-4338CA?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-5B21B6?style=for-the-badge)
+![Word Embeddings](https://img.shields.io/badge/Word%20Embeddings-6366F1?style=for-the-badge)
 
 </div>
 
-Data & Visualisation
+### Data & Visualisation
 
 <div align="center">
 
-
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-312E81?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualisation-4F46E5?style=for-the-badge)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-Model%20Monitoring-7C3AED?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 
 </div>
 
-Frontend
+### Frontend
 
 <div align="center">
 
@@ -153,7 +136,7 @@ Frontend
 
 </div>
 
-Backend & Databases
+### Backend & Databases
 
 <div align="center">
 
@@ -161,11 +144,13 @@ Backend & Databases
 
 <br/><br/>
 
-
+![REST APIs](https://img.shields.io/badge/REST-APIs-6D28D9?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4F46E5?style=for-the-badge\&logo=mysql\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Python%20Backend-7C3AED?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
 </div>
 
-Automation & Developer Tools
+### Automation & Developer Tools
 
 <div align="center">
 
@@ -173,249 +158,161 @@ Automation & Developer Tools
 
 <br/><br/>
 
-
+![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-6D28D9?style=for-the-badge\&logo=n8n\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-4F46E5?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 </div>
-AI / ML Expertise
 
-Domain
+---
 
-Proficiency
+## AI / ML Expertise
 
-Details
+| Domain                          | Proficiency | Details                                            |
+| :------------------------------ | :---------: | :------------------------------------------------- |
+| **Machine Learning**            |    ★★★★☆    | Model development, training and evaluation         |
+| **Deep Learning**               |    ★★★★☆    | TensorFlow, LSTM and CNN architectures             |
+| **Natural Language Processing** |    ★★★★☆    | Text preprocessing, embeddings and classification  |
+| **TensorFlow**                  |    ★★★★☆    | Neural-network development and experimentation     |
+| **LSTM**                        |    ★★★★☆    | Sequential text modelling                          |
+| **CNN**                         |    ★★★☆☆    | Deep-learning classification architectures         |
+| **Word Embeddings**             |    ★★★★☆    | Dense representation of textual information        |
+| **Hyperparameter Tuning**       |    ★★★☆☆    | Learning rate, dropout and batch-size optimisation |
+| **Data Analysis**               |    ★★★☆☆    | Pandas-based data manipulation                     |
+| **Model Visualisation**         |    ★★★☆☆    | TensorBoard and Matplotlib                         |
 
-Machine Learning
+---
 
-★★★★☆
-
-Model development, training and evaluation
-
-Deep Learning
-
-★★★★☆
-
-TensorFlow, LSTM and CNN architectures
-
-Natural Language Processing
-
-★★★★☆
-
-Text preprocessing, embeddings and classification
-
-TensorFlow
-
-★★★★☆
-
-Neural-network development and experimentation
-
-LSTM
-
-★★★★☆
-
-Sequential text modelling
-
-CNN
-
-★★★☆☆
-
-Deep-learning classification architectures
-
-Word Embeddings
-
-★★★★☆
-
-Dense representation of textual information
-
-Hyperparameter Tuning
-
-★★★☆☆
-
-Learning rate, dropout and batch-size optimisation
-
-Data Analysis
-
-★★★☆☆
-
-Pandas-based data manipulation
-
-Model Visualisation
-
-★★★☆☆
-
-TensorBoard and Matplotlib
-
-Featured Projects
+## Featured Projects
 
 <details>
 <summary><b>NLP Text Classification Pipeline</b></summary>
 
 <br/>
 
-An end-to-end Natural Language Processing text classification system developed using Python and TensorFlow to automate text categorisation.
+An end-to-end **Natural Language Processing text classification system** developed using Python and TensorFlow to automate text categorisation.
 
-Area
+| Area              | Details                                                           |
+| :---------------- | :---------------------------------------------------------------- |
+| **Stack**         | Python, TensorFlow, LSTM, CNN, NLP                                |
+| **Scale**         | End-to-end NLP classification pipeline                            |
+| **Performance**   | >90% validation categorisation accuracy                           |
+| **Preprocessing** | Tokenisation → Stopword Removal → Lemmatization → Word Embeddings |
+| **Optimisation**  | Learning Rate, Dropout, Batch Size                                |
+| **Visualisation** | TensorBoard, Matplotlib                                           |
+| **Impact**        | Reduced manual text categorisation effort                         |
+| **Repository**    | Add repository link when published                                |
 
-Details
+### Engineering Highlights
 
-Stack
-
-Python, TensorFlow, LSTM, CNN, NLP
-
-Scale
-
-End-to-end NLP classification pipeline
-
-Performance
-
->90% validation categorisation accuracy
-
-Preprocessing
-
-Tokenisation → Stopword Removal → Lemmatization → Word Embeddings
-
-Optimisation
-
-Learning Rate, Dropout, Batch Size
-
-Visualisation
-
-TensorBoard, Matplotlib
-
-Impact
-
-Reduced manual text categorisation effort
-
-Repository
-
-Available on my GitHub repositories when published/linked
-
-Engineering Highlights
-
-Engineered an end-to-end text classification system using TensorFlow.
-
-Experimented with LSTM and CNN deep-learning architectures.
-
-Achieved more than 90% categorisation accuracy on the validation set.
-
-Designed a four-stage NLP preprocessing pipeline.
-
-Applied tokenisation, stopword removal, lemmatization and word embeddings.
-
-Reduced feature noise compared with raw-text processing.
-
-Tuned learning rate, dropout and batch size to improve experimentation.
-
-Used TensorBoard and Matplotlib to analyse model performance.
-
-Designed model-performance visualisations understandable to non-technical reviewers.
+* Engineered an end-to-end text classification system using **TensorFlow**.
+* Experimented with **LSTM and CNN** deep-learning architectures.
+* Achieved more than **90% categorisation accuracy** on the validation set.
+* Designed a four-stage NLP preprocessing pipeline.
+* Applied tokenisation, stopword removal, lemmatization and word embeddings.
+* Reduced feature noise compared with raw-text processing.
+* Tuned **learning rate, dropout and batch size** to improve experimentation.
+* Used **TensorBoard and Matplotlib** to analyse model performance.
+* Designed model-performance visualisations understandable to non-technical reviewers.
 
 </details>
 
-Experience & Leadership
+---
 
-Student Activity Council — VVIT
+## Experience & Leadership
 
-October 2023 – April 2025
+### Student Activity Council — VVIT
 
-Served for two consecutive years on the VVIT Student Activity Council while simultaneously contributing to the Examination Council and Food & Transport division.
+**October 2023 – April 2025**
 
-Scope of Work
+Served for **two consecutive years** on the VVIT Student Activity Council while simultaneously contributing to the **Examination Council** and **Food & Transport division**.
 
-Coordinated logistics supporting 1,500+ students per semester.
+### Scope of Work
 
-Assisted with examination-related activities and coordination.
+* Coordinated logistics supporting **1,500+ students per semester**.
+* Assisted with examination-related activities and coordination.
+* Supported food and transportation operations.
+* Collaborated with multiple student and institutional teams.
+* Managed responsibilities under time-sensitive situations.
+* Developed leadership, teamwork and communication experience.
 
-Supported food and transportation operations.
+`Leadership` `Operations` `Teamwork` `Communication` `Coordination`
 
-Collaborated with multiple student and institutional teams.
+---
 
-Managed responsibilities under time-sensitive situations.
-
-Developed leadership, teamwork and communication experience.
-
-Leadership Operations Teamwork Communication Coordination
-
-Achievements
+## Achievements
 
 <div align="center">
 
-Recognition
-
-Details
-
-VVIT Top-5 Performer
-
-Recognised among the top five performers across the VVIT campus
-
-Merit Certificate
-
-Awarded directly by the Chairman for exceptional academic performance
-
-HCL Tech Bee Selectee
-
-Competitively selected for HCLTech's national Tech Bee programme
-
-Student Leadership
-
-Served two consecutive years on the VVIT Student Activity Council
+| Recognition               | Details                                                               |
+| :------------------------ | :-------------------------------------------------------------------- |
+| **VVIT Top-5 Performer**  | Recognised among the top five performers across the VVIT campus       |
+| **Merit Certificate**     | Awarded directly by the Chairman for exceptional academic performance |
+| **HCL Tech Bee Selectee** | Competitively selected for HCLTech's national Tech Bee programme      |
+| **Student Leadership**    | Served two consecutive years on the VVIT Student Activity Council     |
 
 </div>
 
-Certifications
+---
 
-IIT Indore — Drishti CPS Foundation
+## Certifications
+
+### IIT Indore — Drishti CPS Foundation
 
 <div align="center">
 
+![IIT Indore](https://img.shields.io/badge/IIT%20Indore-Artificial%20Intelligence%20%26%20Data%20Science-6D28D9?style=for-the-badge)
 
-
-Artificial Intelligence & Data Science — February 2026
+**Artificial Intelligence & Data Science — February 2026**
 
 </div>
 
-Oracle
+### Oracle
 
 <div align="center">
 
+![Oracle](https://img.shields.io/badge/Oracle-AI%20Vector%20Search-4F46E5?style=for-the-badge\&logo=oracle\&logoColor=white)
 
-
-AI Vector Search (Database AI) — August 2025
+**AI Vector Search (Database AI) — August 2025**
 
 </div>
 
-1Stop
+### 1Stop
 
 <div align="center">
 
+![1Stop](https://img.shields.io/badge/1Stop-Artificial%20Intelligence-7C3AED?style=for-the-badge)
 
-
-Artificial Intelligence — Internship-Based Certification
+**Artificial Intelligence — Internship-Based Certification**
 
 </div>
 
-Coding Profiles
+---
+
+## Coding Profiles
 
 <div align="center">
 
-<a href="https://portfoilo-theta-opal.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://leetcode.com/u/Yaswanth_Ganesh_Kumar_Vutukuri/">
+<img src="https://img.shields.io/badge/LeetCode-Yaswanth%20Ganesh%20Kumar-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Yaswanth_Ganesh_Kumar_Vutukuri/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Yaswanth%20Ganesh%20Kumar-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://www.codechef.com/users/vvit23bq1a61e9">
+<img src="https://img.shields.io/badge/CodeChef-vvit23bq1a61e9-4F46E5?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/vvit23bq1a61e9" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-vvit23bq1a61e9-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://github.com/Ganesh-Yash">
+<img src="https://img.shields.io/badge/GitHub-Ganesh--Yash-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-Portfolio • Data Structures & Algorithms • Python • Problem Solving • Competitive Programming
+**Data Structures & Algorithms • Python • Problem Solving • Competitive Programming**
 
 </div>
 
-GitHub Analytics
+---
+
+## GitHub Analytics
 
 <div align="center">
 
@@ -430,7 +327,20 @@ GitHub Analytics
 <img src="https://streak-stats.demolab.com?user=Ganesh-Yash&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6"/>
 
 </div>
-Contribution Activity
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ganesh-Yash&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+---
+
+## Contribution Activity
 
 <div align="center">
 
@@ -438,7 +348,9 @@ Contribution Activity
 
 </div>
 
-Contribution Snake
+---
+
+## Contribution Snake
 
 <div align="center">
 
@@ -446,8 +358,11 @@ Contribution Snake
 
 </div>
 
-Current Focus
+---
 
+## Current Focus
+
+```yaml
 learning:
   - Advanced Machine Learning
   - Deep Learning
@@ -482,38 +397,43 @@ open_to:
   - Backend Engineering Roles
   - Software Engineering Roles
   - Open Source Collaboration
+```
 
-Connect With Me
+---
+
+## Connect With Me
 
 <div align="center">
-
-<a href="https://portfoilo-theta-opal.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yaswanth-ganesh-kumar-vutukuri-99013230b" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 <a href="mailto:ganeshvutukuri43@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-ganeshvutukuri43%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<a href="https://leetcode.com/u/Yaswanth_Ganesh_Kumar_Vutukuri/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="YOUR_LINKEDIN_URL_HERE">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/vvit23bq1a61e9" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://github.com/Ganesh-Yash">
+<img src="https://img.shields.io/badge/GitHub-Ganesh--Yash-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Yaswanth_Ganesh_Kumar_Vutukuri/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-4338CA?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/vvit23bq1a61e9">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B21B6?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
 
+---
+
 <div align="center">
 
-Building intelligent systems, solving meaningful problems, and continuously learning.
+### Building intelligent systems, solving meaningful problems, and continuously learning.
 
 <br/>
 
