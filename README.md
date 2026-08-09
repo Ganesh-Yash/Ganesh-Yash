@@ -16,10 +16,12 @@
 <a href="https://portfoilo-theta-opal.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="mailto:ganeshvutukuri43@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL_HERE">
+
+<a href="https://www.linkedin.com/in/yaswanth-ganesh-kumar-vutukuri-99013230b" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -28,6 +30,7 @@
 <a href="https://leetcode.com/u/Yaswanth_Ganesh_Kumar_Vutukuri/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+
 <a href="https://www.codechef.com/users/vvit23bq1a61e9">
 <img src="https://img.shields.io/badge/CodeChef-Profile-4F46E5?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
@@ -95,8 +98,8 @@ Alongside AI/ML, I am strengthening my software engineering foundation through *
 
 <br/><br/>
 
-![Python](https://img.shields.io/badge/Python-Primary-6D28D9?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Core-4F46E5?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Primary-6D28D9?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Core-4F46E5?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Database-7C3AED?style=for-the-badge)
 
 </div>
@@ -122,9 +125,9 @@ Alongside AI/ML, I am strengthening my software engineering foundation through *
 
 <div align="center">
 
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-312E81?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-312E81?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualisation-4F46E5?style=for-the-badge)
-![TensorBoard](https://img.shields.io/badge/TensorBoard-Model%20Monitoring-7C3AED?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-Model%20Monitoring-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
@@ -145,8 +148,8 @@ Alongside AI/ML, I am strengthening my software engineering foundation through *
 <br/><br/>
 
 ![REST APIs](https://img.shields.io/badge/REST-APIs-6D28D9?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4F46E5?style=for-the-badge\&logo=mysql\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Python%20Backend-7C3AED?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4F46E5?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Python%20Backend-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -158,8 +161,8 @@ Alongside AI/ML, I am strengthening my software engineering foundation through *
 
 <br/><br/>
 
-![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-6D28D9?style=for-the-badge\&logo=n8n\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-4F46E5?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-6D28D9?style=for-the-badge&logo=n8n&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-4F46E5?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -167,18 +170,18 @@ Alongside AI/ML, I am strengthening my software engineering foundation through *
 
 ## AI / ML Expertise
 
-| Domain                          | Proficiency | Details                                            |
-| :------------------------------ | :---------: | :------------------------------------------------- |
-| **Machine Learning**            |    ★★★★☆    | Model development, training and evaluation         |
-| **Deep Learning**               |    ★★★★☆    | TensorFlow, LSTM and CNN architectures             |
-| **Natural Language Processing** |    ★★★★☆    | Text preprocessing, embeddings and classification  |
-| **TensorFlow**                  |    ★★★★☆    | Neural-network development and experimentation     |
-| **LSTM**                        |    ★★★★☆    | Sequential text modelling                          |
-| **CNN**                         |    ★★★☆☆    | Deep-learning classification architectures         |
-| **Word Embeddings**             |    ★★★★☆    | Dense representation of textual information        |
-| **Hyperparameter Tuning**       |    ★★★☆☆    | Learning rate, dropout and batch-size optimisation |
-| **Data Analysis**               |    ★★★☆☆    | Pandas-based data manipulation                     |
-| **Model Visualisation**         |    ★★★☆☆    | TensorBoard and Matplotlib                         |
+| Domain | Proficiency | Details |
+| :--- | :---: | :--- |
+| **Machine Learning** | ★★★★☆ | Model development, training and evaluation |
+| **Deep Learning** | ★★★★☆ | TensorFlow, LSTM and CNN architectures |
+| **Natural Language Processing** | ★★★★☆ | Text preprocessing, embeddings and classification |
+| **TensorFlow** | ★★★★☆ | Neural-network development and experimentation |
+| **LSTM** | ★★★★☆ | Sequential text modelling |
+| **CNN** | ★★★☆☆ | Deep-learning classification architectures |
+| **Word Embeddings** | ★★★★☆ | Dense representation of textual information |
+| **Hyperparameter Tuning** | ★★★☆☆ | Learning rate, dropout and batch-size optimisation |
+| **Data Analysis** | ★★★☆☆ | Pandas-based data manipulation |
+| **Model Visualisation** | ★★★☆☆ | TensorBoard and Matplotlib |
 
 ---
 
@@ -191,16 +194,16 @@ Alongside AI/ML, I am strengthening my software engineering foundation through *
 
 An end-to-end **Natural Language Processing text classification system** developed using Python and TensorFlow to automate text categorisation.
 
-| Area              | Details                                                           |
-| :---------------- | :---------------------------------------------------------------- |
-| **Stack**         | Python, TensorFlow, LSTM, CNN, NLP                                |
-| **Scale**         | End-to-end NLP classification pipeline                            |
-| **Performance**   | >90% validation categorisation accuracy                           |
+| Area | Details |
+| :--- | :--- |
+| **Stack** | Python, TensorFlow, LSTM, CNN, NLP |
+| **Scale** | End-to-end NLP classification pipeline |
+| **Performance** | >90% validation categorisation accuracy |
 | **Preprocessing** | Tokenisation → Stopword Removal → Lemmatization → Word Embeddings |
-| **Optimisation**  | Learning Rate, Dropout, Batch Size                                |
-| **Visualisation** | TensorBoard, Matplotlib                                           |
-| **Impact**        | Reduced manual text categorisation effort                         |
-| **Repository**    | Add repository link when published                                |
+| **Optimisation** | Learning Rate, Dropout, Batch Size |
+| **Visualisation** | TensorBoard, Matplotlib |
+| **Impact** | Reduced manual text categorisation effort |
+| **Repository** | Add repository link when published |
 
 ### Engineering Highlights
 
@@ -243,12 +246,12 @@ Served for **two consecutive years** on the VVIT Student Activity Council while 
 
 <div align="center">
 
-| Recognition               | Details                                                               |
-| :------------------------ | :-------------------------------------------------------------------- |
-| **VVIT Top-5 Performer**  | Recognised among the top five performers across the VVIT campus       |
-| **Merit Certificate**     | Awarded directly by the Chairman for exceptional academic performance |
-| **HCL Tech Bee Selectee** | Competitively selected for HCLTech's national Tech Bee programme      |
-| **Student Leadership**    | Served two consecutive years on the VVIT Student Activity Council     |
+| Recognition | Details |
+| :--- | :--- |
+| **VVIT Top-5 Performer** | Recognised among the top five performers across the VVIT campus |
+| **Merit Certificate** | Awarded directly by the Chairman for exceptional academic performance |
+| **HCL Tech Bee Selectee** | Competitively selected for HCLTech's national Tech Bee programme |
+| **Student Leadership** | Served two consecutive years on the VVIT Student Activity Council |
 
 </div>
 
@@ -270,7 +273,7 @@ Served for **two consecutive years** on the VVIT Student Activity Council while 
 
 <div align="center">
 
-![Oracle](https://img.shields.io/badge/Oracle-AI%20Vector%20Search-4F46E5?style=for-the-badge\&logo=oracle\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-AI%20Vector%20Search-4F46E5?style=for-the-badge&logo=oracle&logoColor=white)
 
 **AI Vector Search (Database AI) — August 2025**
 
@@ -316,8 +319,6 @@ Building AI solutions • Solving DSA problems • Showcasing real-world project
 
 </div>
 
-
-
 ---
 
 ## GitHub Analytics
@@ -334,11 +335,13 @@ Building AI solutions • Solving DSA problems • Showcasing real-world project
 
 <img src="https://streak-stats.demolab.com?user=Ganesh-Yash&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6"/>
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Ganesh-Yash/Ganesh-Yash/main/github-metrics.svg" alt="GitHub Metrics"/>
+
 </div>
 
 ---
-
-
 
 ## Contribution Activity
 
@@ -413,7 +416,7 @@ open_to:
 <img src="https://img.shields.io/badge/Gmail-ganeshvutukuri43%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL_HERE">
+<a href="https://www.linkedin.com/in/yaswanth-ganesh-kumar-vutukuri-99013230b" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
