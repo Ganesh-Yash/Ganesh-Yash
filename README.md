@@ -16,7 +16,7 @@
 <a href="mailto:ganeshvutukuri43@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL_HERE">
+<a href="https://www.linkedin.com/in/yaswanth-ganesh-kumar-vutukuri-99013230b">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -368,21 +368,21 @@ Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Yaswanth_Ganesh_Kumar_Vutukuri/">
+<a href="https://portfoilo-theta-opal.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Yaswanth_Ganesh_Kumar_Vutukuri/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-Yaswanth%20Ganesh%20Kumar-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/vvit23bq1a61e9">
+<a href="https://www.codechef.com/users/vvit23bq1a61e9" target="_blank">
 <img src="https://img.shields.io/badge/CodeChef-vvit23bq1a61e9-4F46E5?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ganesh-Yash">
-<img src="https://img.shields.io/badge/GitHub-Ganesh--Yash-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-Data Structures & Algorithms • Python • Problem Solving • Competitive Programming
+Portfolio • Data Structures & Algorithms • Python • Problem Solving • Competitive Programming
 
 </div>
 
@@ -471,7 +471,7 @@ Connect With Me
 <img src="https://img.shields.io/badge/Gmail-ganeshvutukuri43%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL_HERE">
+<a href="https://www.linkedin.com/in/yaswanth-ganesh-kumar-vutukuri-99013230b">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
