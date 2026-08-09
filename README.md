@@ -352,11 +352,15 @@ Building AI solutions • Solving DSA problems • Showcasing real-world project
 
 ## Contribution Snake
 
+---
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ganesh-Yash/Ganesh-Yash/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Ganesh-Yash/Ganesh-Yash/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
+
+---
 
 ---
 
