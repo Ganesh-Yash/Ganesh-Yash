@@ -325,21 +325,19 @@ Building AI solutions • Solving DSA problems • Showcasing real-world project
 
 <div align="center">
 
-<a href="https://github.com/Ganesh-Yash">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ganesh-Yash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9"/>
-</a>
-
-<a href="https://github.com/Ganesh-Yash">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-Yash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Ganesh-Yash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Ganesh-Yash&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-Yash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Ganesh-Yash/Ganesh-Yash/main/github-metrics.svg" alt="GitHub Metrics"/>
+<img src="https://streak-stats.demolab.com?user=Ganesh-Yash&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Ganesh-Yash/Ganesh-Yash/main/github-metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
