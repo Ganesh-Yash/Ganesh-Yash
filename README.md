@@ -325,11 +325,13 @@ Building AI solutions • Solving DSA problems • Showcasing real-world project
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ganesh-Yash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9"/>
+<a href="https://github.com/Ganesh-Yash">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ganesh-Yash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9"/>
+</a>
 
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-Yash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
+<a href="https://github.com/Ganesh-Yash">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-Yash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
+</a>
 
 <br/><br/>
 
@@ -340,8 +342,6 @@ Building AI solutions • Solving DSA problems • Showcasing real-world project
 <img src="https://raw.githubusercontent.com/Ganesh-Yash/Ganesh-Yash/main/github-metrics.svg" alt="GitHub Metrics"/>
 
 </div>
-
----
 
 ## Contribution Activity
 
